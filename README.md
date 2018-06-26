@@ -27,7 +27,7 @@ python Primergenerator.py
 
 
 Primergenerator requiere a fasta or multifasta file containing all the sequence genes that are going to be scanned for primers. 
-
+<br />
 
 
 ## Parameters
