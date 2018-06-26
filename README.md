@@ -23,7 +23,7 @@ python Primergenerator.py
 
 
 ## Input file
-<br /><br />
+<br />
 
 
 Primergenerator requiere a fasta or multifasta file containing all the sequence genes that are going to be scanned for primers. 
@@ -31,7 +31,7 @@ Primergenerator requiere a fasta or multifasta file containing all the sequence 
 
 
 ## Parameters
-<br /><br />
+<br />
 All these parameters appears in the Tkinter GUI of PrimerGenerator
 <br />
 
