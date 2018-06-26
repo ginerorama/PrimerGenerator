@@ -17,7 +17,7 @@ and their results should be taken with cautions.
 ## Usage
 <br />
 
-`python Primergenerator.py
+`python Primergenerator.py`
 
 <br /><br />
 
@@ -27,7 +27,7 @@ and their results should be taken with cautions.
 
 
 Primergenerator requiere a fasta or multifasta file containing all the sequence genes that are going to be scanned for primers. 
-<br />
+<br /><br />
 
 
 ## Parameters
