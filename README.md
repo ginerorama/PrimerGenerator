@@ -15,15 +15,15 @@ and their results should be taken with cautions.
 <br />
 
 ## Usage
-</p>
+<br />
 
 python Primergenerator.py
 
-</p>
+<br />
 
 
 ## Input file
-</p>
+<br />
 
 
 Primergenerator requiere a fasta or multifasta file containing all the sequence genes that are going to be scanned for primers. 
@@ -31,9 +31,9 @@ Primergenerator requiere a fasta or multifasta file containing all the sequence 
 
 
 ## Parameters
-</p>
+<br />
 All these parameters appears in the Tkinter GUI of PrimerGenerator
-</p>
+<br />
 primer size: desired size of primers that Primergenerators have to find.
 max GC percentage: maximum % GC admited for primers
 min GC percentage: minimun % GC admited for primers (have to be 1 below to max GC value)
@@ -45,11 +45,11 @@ max size for amplicon: maximun size of amplicon that should be amplified in the 
 min size for amplicon: minimum size of amplicon that should be amplified in the QPCR	
 
 
-</p>
+<br />
 ## Ouput
-</p>
+<br />
 
 Primergenerators generates a txt file as output with all the forwards and reverse primers listed for all
 the genes presents in the fasta/multifasta file. 
-</p>
-</p>
+<br />
+<br />
