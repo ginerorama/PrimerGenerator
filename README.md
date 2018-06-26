@@ -7,21 +7,23 @@ Important note: Several tests have been performed with this program to design
 primers that worked fine for PCR experiments. However this software is still experimental, 
 and their results should be taken with cautions. 
 
+</p>
+</p>
 <p align="center">
 <img src="https://github.com/ginerorama/PrimerGenerator/blob/master/pic1.png" width="370" height="590">
 </p>
-
+</p>
 
 ## Usage
-
+</p>
 
 python Primergenerator.py
 
-
+</p>
 
 
 ## Input file
-
+</p>
 
 
 Primergenerator requiere a fasta or multifasta file containing all the sequence genes that are going to be scanned for primers. 
@@ -29,9 +31,9 @@ Primergenerator requiere a fasta or multifasta file containing all the sequence 
 
 
 ## Parameters
-
+</p>
 All these parameters appears in the Tkinter GUI of PrimerGenerator
-
+</p>
 primer size: desired size of primers that Primergenerators have to find.
 max GC percentage: maximum % GC admited for primers
 min GC percentage: minimun % GC admited for primers (have to be 1 below to max GC value)
@@ -43,10 +45,11 @@ max size for amplicon: maximun size of amplicon that should be amplified in the 
 min size for amplicon: minimum size of amplicon that should be amplified in the QPCR	
 
 
-
+</p>
 ## Ouput
-
+</p>
 
 Primergenerators generates a txt file as output with all the forwards and reverse primers listed for all
 the genes presents in the fasta/multifasta file. 
-
+</p>
+</p>
