@@ -66,7 +66,7 @@ PrimergGnerators generates a txt file as output with all the forwards and revers
 the genes presents in the fasta/multifasta file. 
 <br />
 <br />
-An output exemple:
+An output exemple using the glutamine synhtethase gene (glnA) from the cyanobacterium Synechocystis sp. PCC6803 with a primer size = 30 , max GC percentage = 40 and min GC percentage = 39:
 <p align="center">
 <img src="https://github.com/ginerorama/PrimerGenerator/blob/master/output.png" >
 
