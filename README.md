@@ -6,13 +6,13 @@ primers that worked fine for PCR experiments. However this software is still exp
 and their results should be taken with cautions. 
 
 
-# Usage
+## Usage
 
 
 python Primergenerator.py
 
 
-# Input file
+## Input file
 
 
 
@@ -20,7 +20,7 @@ Primergenerator requiere a fasta or multifasta file containing all the sequence 
 
 
 
-# Parameters
+## Parameters
 
 All these parameters appears in the Tkinter GUI of PrimerGenerator
 
@@ -36,7 +36,7 @@ min size for amplicon: minimum size of amplicon that should be amplified in the 
 
 
 
-# Ouput
+## Ouput
 
 
 Primergenerators generates a txt file as output with all the forwards and reverse primers listed for all
