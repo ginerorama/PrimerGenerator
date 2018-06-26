@@ -13,6 +13,7 @@ and their results should be taken with cautions.
 <img src="https://github.com/ginerorama/PrimerGenerator/blob/master/pic1.png" width="370" height="590">
 <br />
 <br />
+
 ## Require
 	
 Tkinter
@@ -25,7 +26,7 @@ Tkinter
 `python PrimerGenerator.py`
 
 <br />
-PrimerGenerator can be runin
+PrimerGenerator can be run in UNIX and MAC systems with python 2.7.
 <br />
 
 
@@ -66,4 +67,6 @@ the genes presents in the fasta/multifasta file.
 <br />
 <br />
 An output exemple:
+<p align="center">
+<img src="https://github.com/ginerorama/PrimerGenerator/blob/master/output.png" >
 
