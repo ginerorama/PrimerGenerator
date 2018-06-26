@@ -26,7 +26,7 @@ Tkinter
 `python PrimerGenerator.py`
 
 <br />
-PrimerGenerator can be run in UNIX and MAC systems with python 2.7.
+PrimerGenerator can be run in UNIX and MAC systems with python 2.7. GUI is optimized for Tkinter in MacOSX, weird aspects for main Tkinter window can be observed in UNIX systems.
 <br />
 
 
