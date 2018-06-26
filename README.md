@@ -8,7 +8,7 @@ primers that worked fine for PCR experiments. However this software is still exp
 and their results should be taken with cautions. 
 
 
-![alt text](https://github.com/ginerorama/PrimerGenerator/blob/master/picture1.png= 250x350)
+![alt text](https://github.com/ginerorama/PrimerGenerator/blob/master/picture1.png = 250x350)
 ## Usage
 
 
