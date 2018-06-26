@@ -7,7 +7,7 @@ Important note: Several tests have been performed with this program to design
 primers that worked fine for PCR experiments. However this software is still experimental, 
 and their results should be taken with cautions. 
 
-<img src="https://github.com/ginerorama/PrimerGenerator/blob/master/pic1.png" width="200" height="400">
+<img src="https://github.com/ginerorama/PrimerGenerator/blob/master/pic1.png" width="300" height="650">
 
 ## Usage
 
