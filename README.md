@@ -36,14 +36,14 @@ All these parameters appears in the Tkinter GUI of PrimerGenerator
 <br /><br />
 
 `primer size:` desired size of primers that Primergenerators have to find.
-`max GC percentage:` maximum % GC admited for primers
-`min GC percentage:` minimun % GC admited for primers (have to be 1 below to max GC value)
+`max GC percentage:` maximum % GC admited for primers. 
+`min GC percentage:` minimun % GC admited for primers (have to be 1 below to max GC value). 
 
 `QPCR checkbox:` if check it, Primergenerators will find primers that renders a band of size
-				between the maximum and minimum size set for the amplicon.
+				between the maximum and minimum size set for the amplicon.  
 
-`max size for amplicon:` maximun size of amplicon that should be amplified in the QPCR
-`min size for amplicon:` minimum size of amplicon that should be amplified in the QPCR	
+`max size for amplicon:` maximun size of amplicon that should be amplified in the QPCR. 
+`min size for amplicon:` minimum size of amplicon that should be amplified in the QPCR. 	
 <br /><br />
 
 
