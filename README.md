@@ -1,4 +1,6 @@
 # PrimerGenerator v0.2
+![alt text](https://github.com/ginerorama/PrimerGenerator/blob/master/Primer.gif)
+
 A simply tool for pick primers from a DNA sequence 
 
 Important note: Several tests have been performed with this program to design 
@@ -6,10 +8,13 @@ primers that worked fine for PCR experiments. However this software is still exp
 and their results should be taken with cautions. 
 
 
+
 ## Usage
 
 
 python Primergenerator.py
+
+
 
 
 ## Input file
