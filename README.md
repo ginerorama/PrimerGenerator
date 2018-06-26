@@ -1,7 +1,7 @@
 # PrimerGenerator v0.2
 ![alt text](https://github.com/ginerorama/PrimerGenerator/blob/master/Primer.gif)
 
-A simply tool for pick primers from a DNA sequence 
+A simply tool for pick primers from a DNA sequence developed in Python using a Tkinter graphical interface
 
 Important note: Several tests have been performed with this program to design 
 primers that worked fine for PCR experiments. However this software is still experimental, 
@@ -13,20 +13,27 @@ and their results should be taken with cautions.
 <img src="https://github.com/ginerorama/PrimerGenerator/blob/master/pic1.png" width="370" height="590">
 <br />
 <br />
+## Require
+	
+Tkinter
+
+<br />
 
 ## Usage
 <br />
 
-`python Primergenerator.py`
+`python PrimerGenerator.py`
 
-<br /><br />
+<br />
+PrimerGenerator can be runin
+<br />
 
 
 ## Input file
 <br />
 
 
-PrimerGenerator requieres a fasta or multifasta file containing all the sequence genes that are going to be scanned for primers. 
+PrimerGenerator requieres a fasta or multifasta file containing all the sequence genes that are going to be scanned for primers. The input file is loaded using the Browse button.
 <br /><br />
 
 
@@ -58,3 +65,5 @@ PrimergGnerators generates a txt file as output with all the forwards and revers
 the genes presents in the fasta/multifasta file. 
 <br />
 <br />
+An output exemple:
+
