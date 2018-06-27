@@ -56,8 +56,9 @@ All these parameters appears in the Tkinter GUI of PrimerGenerator
 `max size for amplicon:` maximun size of amplicon that should be amplified in the QPCR. 
 
 `min size for amplicon:` minimum size of amplicon that should be amplified in the QPCR. 	
-<br /><br />
 
+<br /><br />
+*important note: difference between max and min size for amplicon has to be greater than primer size
 
 ## Ouput
 
