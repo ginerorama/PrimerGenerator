@@ -14,9 +14,11 @@ and their results should be taken with cautions.
 <br />
 <br />
 
-## Require
+## Requires
 	
-Tkinter
+Tkinter module
+<br />
+important note: Primer.gif file containning logo has to be at the same path of PrimerGenerator.py
 
 <br />
 
